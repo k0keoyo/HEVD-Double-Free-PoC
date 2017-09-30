@@ -1,0 +1,24 @@
+﻿Build started 9/29/2017 4:44:06 AM.
+Project "c:\Users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\HEVD_Double_Free\HEVD_Double_Free.vcxproj" on node 2 (rebuild target(s)).
+_PrepareForClean:
+  Deleting file "x64\Release\HEVD_Double_Free.lastbuildstate".
+InitializeBuildStatus:
+  Creating "x64\Release\HEVD_Double_Free.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt HEVD_Double_Free.cpp
+  HEVD_Double_Free.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\x64\Release\HEVD_Double_Free.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\HEVD_Double_Free.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\x64\Release\HEVD_Double_Free.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\x64\Release\HEVD_Double_Free.lib" /MACHINE:X64 x64\Release\HEVD_Double_Free.obj
+  Generating code
+  Finished generating code
+  HEVD_Double_Free.vcxproj -> c:\users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\x64\Release\HEVD_Double_Free.exe
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\x64\Release\HEVD_Double_Free.exe;#1" /manifest x64\Release\HEVD_Double_Free.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "x64\Release\HEVD_Double_Free.unsuccessfulbuild".
+  Touching "x64\Release\HEVD_Double_Free.lastbuildstate".
+Done Building Project "c:\Users\sh1\documents\visual studio 2010\Projects\HEVD_Double_Free\HEVD_Double_Free\HEVD_Double_Free.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.86
